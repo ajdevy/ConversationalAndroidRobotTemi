@@ -8,7 +8,7 @@ This workspace contains the Temi conversational robot proof-of-concept project.
   - Full Android project with Clean Architecture
   - Local LLM (Gemma 3n-E2B) integration
   - STT, TTS, and wake word detection
-  - See `temi-poc-android/README.md` for details
+  - See `README.md` for details
 
 - **`agent-os/`** - Agent OS framework and specifications
   - Project specifications
