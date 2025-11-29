@@ -4,7 +4,7 @@ This workspace contains the Temi conversational robot proof-of-concept project.
 
 ## Structure
 
-- **`temi-poc-android/`** - Android application implementation
+- **`root`** - Android application implementation
   - Full Android project with Clean Architecture
   - Local LLM (Gemma 3n-E2B) integration
   - STT, TTS, and wake word detection
