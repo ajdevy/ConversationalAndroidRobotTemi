@@ -1,0 +1,20 @@
+menu[18]{name,price,description,ingredients,allergens,category}:
+burger,12.99,Classic beef burger with lettuce tomato onion,beef patty lettuce tomato onion bun,gluten dairy,entrees
+chicken_sandwich,11.99,Gril chicken breast sandwich,chicken breast lettuce mayo bun,gluten egg,entrees
+caesar_salad,9.99,Fresh romaine with caesar dressing,romaine lettuce parmesan croutons caesar dressing,gluten dairy egg,entrees
+garden_salad,8.99,Mixed greens with vegetables,mixed greens cucumber tomato carrots vinaigrette,none,salads
+margherita_pizza,14.99,Classic pizza with tomato mozzarella,tomato sauce mozzarella basil dough,gluten dairy,entrees
+pepperoni_pizza,16.99,Pizza with pepperoni and cheese,tomato sauce mozzarella pepperoni dough,gluten dairy,entrees
+chicken_wings,13.99,Buffalo wings with blue cheese,chicken wings buffalo sauce blue cheese,gluten dairy,appetizers
+mozzarella_sticks,8.99,Fried mozzarella with marinara,mozzarella breadcrumbs marinara sauce,gluten dairy egg,appetizers
+french_fries,5.99,Crispy golden fries,potatoes salt oil,none,sides
+onion_rings,6.99,Battered fried onion rings,onions batter flour oil,gluten egg,sides
+chocolate_cake,7.99,Rich chocolate layer cake,chocolate flour eggs butter cream,gluten dairy egg,desserts
+cheesecake,8.99,New York style cheesecake,cream cheese graham cracker crust sugar,gluten dairy egg,desserts
+ice_cream,5.99,Vanilla ice cream scoop,cream sugar vanilla,gluten dairy,desserts
+soda,2.99,Carbonated soft drink,carbonated water sugar flavoring,none,beverages
+coffee,3.99,Hot brewed coffee,coffee beans water,none,beverages
+tea,2.99,Hot tea selection,tea leaves water,none,beverages
+water,1.99,Bottled water,water,none,beverages
+beer,5.99,Draft beer selection,barley hops water yeast,gluten,beverages
+

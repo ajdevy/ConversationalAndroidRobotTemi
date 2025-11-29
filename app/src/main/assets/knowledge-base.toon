@@ -1,0 +1,29 @@
+restaurant_info:
+  name:Temi Restaurant
+  location:123 Main Street Downtown
+  phone:555-0123
+  email:info@temirestaurant.com
+  hours:
+    monday:11:00-22:00
+    tuesday:11:00-22:00
+    wednesday:11:00-22:00
+    thursday:11:00-22:00
+    friday:11:00-23:00
+    saturday:10:00-23:00
+    sunday:10:00-21:00
+  policies:
+    reservations:Accepted for parties of 6 or more
+    dress_code:Casual dining
+    parking:Free parking available in rear lot
+    wifi:Free WiFi password is temi2024
+    pet_friendly:Dogs allowed on outdoor patio only
+faq[8]{question,answer}:
+What are your hours?,We are open Monday-Thursday 11am-10pm Friday-Saturday 11am-11pm Sunday 10am-9pm
+Do you take reservations?,Yes we accept reservations for parties of 6 or more Please call 555-0123
+What payment methods do you accept?,We accept cash credit cards and mobile payments
+Is the restaurant wheelchair accessible?,Yes we have wheelchair accessible entrances and restrooms
+Do you have vegetarian options?,Yes we offer several vegetarian dishes including garden salad and margherita pizza
+Do you have gluten-free options?,Yes we have gluten-free options available Please inform your server of any allergies
+Can I order takeout?,Yes we offer takeout orders Call 555-0123 to place your order
+Where can I park?,Free parking is available in our rear parking lot
+
