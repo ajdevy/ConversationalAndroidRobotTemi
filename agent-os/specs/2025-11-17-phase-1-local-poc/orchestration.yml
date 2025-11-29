@@ -1,0 +1,13 @@
+task_groups:
+  - name: Project Setup & Dependencies
+  - name: TOON Data Files and Parser Integration
+  - name: Settings Storage and Repository
+  - name: Wake Word Detection Service
+  - name: Speech-to-Text Service
+  - name: LLM Service and Prompt Engineering
+  - name: Text-to-Speech and Interruption Services
+  - name: Use Cases and Conversation Orchestration
+  - name: Status Indicator Component
+  - name: Settings Screen UI
+  - name: End-to-End Integration Testing
+  - name: Performance Validation and Final Polish
